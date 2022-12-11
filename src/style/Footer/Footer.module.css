@@ -1,0 +1,8 @@
+.containerfooter{
+    background-color: rgb(79, 161, 161);
+    color: aliceblue;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

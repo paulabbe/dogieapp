@@ -1,0 +1,12 @@
+.containerhome2{
+    background-color: rgb(86, 144, 195);
+    display: flex
+    ;align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    ;
+}
+.containerhometexto{
+    margin-bottom: 500px;
+   
+}

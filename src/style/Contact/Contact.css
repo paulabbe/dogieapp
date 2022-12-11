@@ -1,0 +1,19 @@
+
+.container{
+ padding: 30px;
+ color: rgb(69, 52, 247);
+}
+
+.dog1{
+    color: azure;
+   font-size: 20px;
+    padding: 10px;
+    background-color: rgb(162, 169, 218);
+   display: flex;
+   justify-content: center;
+}
+img{
+  width: 350px;
+  height: 350px;
+  
+}
